@@ -13,4 +13,4 @@ Este repositório tem como objetivo consolidar os conhecimentos práticos de ver
 ## 🛠️ Tecnologias e Ferramentas
 - Git
 - GitHub
-- Microsoft Learn (GitHub Foundations)
+- Microsoft Learn (GitHub Foundations).
