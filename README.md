@@ -7,7 +7,7 @@ Este repositório tem como objetivo consolidar os conhecimentos práticos de ver
 
 ## O que foi aplicado
 - **Controle de Versão:** Uso de Git local e remoto no GitHub.
-- **Fluxo de Trabalho:** Criação de branch separada (`feature/`) para alterações e integração na branch principal (`main`) via Pull Request.
+- **Fluxo de Trabalho:** Criação de branch separada (`Nickjonzo-patch-1`) para alterações e integração na branch principal (`main`) via Pull Request.
 - **Organização:** Histórico de commits claros e descritivos.
 
 ## Tecnologias e Ferramentas
