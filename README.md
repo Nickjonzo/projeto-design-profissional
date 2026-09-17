@@ -14,3 +14,7 @@ Este repositório tem como objetivo consolidar os conhecimentos práticos de ver
 - Git
 - GitHub
 - Microsoft Learn (GitHub Foundations).
+
+## 🎓 Certificação
+- [Certificado - GitHub Foundations (Microsoft Learn)](https://learn.microsoft.com/api/achievements/share/pt-br/JOAOLUIZKARWOWSKIDACOSTA-1788/NQ6ZGMPF?sharingId=2E9A11AF749C5B44
+
